@@ -16,7 +16,7 @@ A simple application that allows users to search for books and save seletions to
 To install the application clone the repository and run `npm i` in the command line to install dependencies. Run `npm run develop` to start the application locally.
 
 ## Usage:
-* Use the deployed application here: 
+* Use the deployed application here: https://guarded-island-33022.herokuapp.com/
 
 ## Screenshots:
 ![Book Search GIF](./client/src/assets/booksearch.gif)
