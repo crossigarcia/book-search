@@ -13,13 +13,13 @@ A simple application that allows users to search for books and save seletions to
 
 
 ## Installation:
-To install the application clone the repository and run `npm i` in the command line to install dependencies.
+To install the application clone the repository and run `npm i` in the command line to install dependencies. Run `npm run develop` to start the application locally.
 
 ## Usage:
 * Use the deployed application here: 
 
 ## Screenshots:
-![]()
+![Book Search GIF](./client/src/assets/booksearch.gif)
 
 ## Technologies:
 + Express.js
